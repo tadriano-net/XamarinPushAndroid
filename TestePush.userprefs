@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="TestePush/TestePush.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.9c1a32bf" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestePush/MyBroadcastReceiver.cs">
+    <Files>
+      <File FileName="TestePush/MyBroadcastReceiver.cs" Line="62" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/acmsilva/Projects/TestePush/TestePush/MyBroadcastReceiver.cs" line="59" column="16" />
+      <Breakpoint file="/Users/acmsilva/Projects/TestePush/TestePush/MyBroadcastReceiver.cs" line="61" column="1" />
+      <Breakpoint file="/Users/acmsilva/Projects/TestePush/TestePush/MyBroadcastReceiver.cs" line="64" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../projetos/band/views/radio/trunk/bandradios-app/br.com.martinlabs.band.process\RegionProcess.cs" line="124" offsetX="565" offsetY="1845" expression="latitude" liveUpdate="False" />
+    <Watch file="../../projetos/band/views/radio/trunk/bandradios-app/br.com.martinlabs.band.iphone/ViewController/EnqueteViewController.cs" line="315" offsetX="770" offsetY="4710" expression="tableItems" liveUpdate="False" />
+    <Watch file="../../projetos/band/views/radio/trunk/bandradios-app/br.com.martinlabs.band.ipad/AppDelegate.cs" line="115" offsetX="430" offsetY="1710" expression="userInfo" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

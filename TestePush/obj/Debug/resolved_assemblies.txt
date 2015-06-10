@@ -1,0 +1,3 @@
+/Users/acmsilva/Projects/TestePush/TestePush/bin/Debug/TestePush.dll
+/Users/acmsilva/Projects/TestePush/Components/GCMClient-1.0/lib/android/GCM.Client.dll
+/Users/acmsilva/Projects/TestePush/packages/Newtonsoft.Json.6.0.8/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll
